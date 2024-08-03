@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:40, SET HD
+#EXTVLCOPT:network-caching=1000
+https://yuvraj.fun/sliv/index.m3u8?ch=SETHD&id=2011671
+#EXTINF:40, Sony SAB HD
+#EXTVLCOPT:network-caching=1000
+https://yuvraj.fun/sliv/index.m3u8?ch=SABHD&id=2011749
+#EXTINF:38, Sony PAL
+#EXTVLCOPT:network-caching=1000
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyPalSD&id=2011741
+#EXTINF:0, Sony YAY
+#EXTVLCOPT:network-caching=1000
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyYaySD&id=2011746
+#EXTINF:40, Sony BBC Earth HD
+#EXTVLCOPT:network-caching=1000
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyBBCEarthHD&id=2011907
+#EXTINF:40, Sony PIX HD
+#EXTVLCOPT:network-caching=1000
+https://yuvraj.fun/sliv/index.m3u8?ch=PIXHD&id=2011748
+#EXTINF:40, Sony MAX
+#EXTVLCOPT:network-caching=1000
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyMaxSD&id=2011745
+#EXTINF:40, Sony MAX HD
+#EXTVLCOPT:network-caching=1000
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyMaxhd&id=2011670
+#EXTINF:0, Sony MAX2
+#EXTVLCOPT:network-caching=1000
+https://yuvraj.fun/sliv/index.m3u8?ch=MAX2&id=2011908
+#EXTINF:0, Sony TEN 1
+#EXTVLCOPT:network-caching=1000
+https://yuvraj.fun/sliv/index.m3u8?ch=TEN1SD&id=2011739
+#EXTINF:0, Sony TEN 2
+#EXTVLCOPT:network-caching=1000
+https://yuvraj.fun/sliv/index.m3u8?ch=TEN2SD&id=2020590
+#EXTINF:0, Sony TEN 1 HD
+#EXTVLCOPT:network-caching=1000
+https://yuvraj.fun/sliv/index.m3u8?ch=TEN1HD&id=2011747
+#EXTINF:0, Sony TEN 2 HD
+#EXTVLCOPT:network-caching=1000
+https://yuvraj.fun/sliv/index.m3u8?ch=TEN2HD&id=2020434
+#EXTINF:0, Sony TEN 3 HD
+#EXTVLCOPT:network-caching=1000
+https://yuvraj.fun/sliv/index.m3u8?ch=TEN3HD&id=2020591
+#EXTINF:0, Sony TEN 4 HD
+#EXTVLCOPT:network-caching=1000
+https://yuvraj.fun/sliv/index.m3u8?ch=ten4hd&id=2020589
+#EXTINF:0, Sony TEN 5 HD
+#EXTVLCOPT:network-caching=1000
+https://yuvraj.fun/sliv/index.m3u8?ch=SONYSIXHD&id=2020593
