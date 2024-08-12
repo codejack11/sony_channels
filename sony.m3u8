@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:40, SET HD
 #EXTVLCOPT:network-caching=1000
-https://yuvraj.fun/sliv/index.m3u8?ch=SETHD&id=2011671
+https://yuvraj43.xyz/jplus/index.mpd?id=291
 #EXTINF:40, Sony SAB HD
 #EXTVLCOPT:network-caching=1000
 https://yuvraj.fun/sliv/index.m3u8?ch=SABHD&id=2011749
