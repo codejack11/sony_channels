@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:40, SET HD
+#EXTINF:40, tvg-id="ts15" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment", SET HD
 logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment", SET HD
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/x-mpegURL
