@@ -1,18 +1,10 @@
 #EXTM3U
 
-#EXTINF:40, tvg-id="ts15" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment", SET HD
-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment", SET HD
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0
-#KODIPROP:inputstream.adaptive.license_key=|User-Agent=Mozilla%2F5.0||
-https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
-
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv",SONY HD
+https://la.drmlive.au/tp/sliv.php?id=sony
 #EXTINF:40, Sony SAB HD
 #EXTVLCOPT:network-caching=1000
-https://yuvraj.fun/sliv/index.m3u8?ch=SABHD&id=2011749
+https://live.drmlive-02.workers.dev/sliv/sab.m3u8
 #EXTINF:38, Sony PAL
 #EXTVLCOPT:network-caching=1000
 https://yuvraj.fun/sliv/index.m3u8?ch=SonyPalSD&id=2011741
