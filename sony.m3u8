@@ -2,9 +2,8 @@
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv",SONY HD
 https://la.drmlive.au/tp/sliv.php?id=sony
-#EXTINF:40, Sony SAB HD
-#EXTVLCOPT:network-caching=1000
-https://live.drmlive-02.workers.dev/sliv/sab.m3u8
+#EXTINF:40, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sony Liv",SONY SAB HD
+https://la.drmlive.au/tp/sliv.php?id=sab
 #EXTINF:38, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony Liv",SONY PAL
 https://la.drmlive.au/tp/sliv.php?id=pal
 #EXTINF:40, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Sony Liv",SONY PIX HD
