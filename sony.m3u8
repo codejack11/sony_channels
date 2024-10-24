@@ -5,23 +5,14 @@ https://la.drmlive.au/tp/sliv.php?id=sony
 #EXTINF:40, Sony SAB HD
 #EXTVLCOPT:network-caching=1000
 https://live.drmlive-02.workers.dev/sliv/sab.m3u8
-#EXTINF:38, Sony PAL
-#EXTVLCOPT:network-caching=1000
-https://yuvraj.fun/sliv/index.m3u8?ch=SonyPalSD&id=2011741
-#EXTINF:0, Sony YAY
-#EXTVLCOPT:network-caching=1000
-https://yuvraj.fun/sliv/index.m3u8?ch=SonyYaySD&id=2011746
-#EXTINF:40, Sony BBC Earth HD
-#EXTVLCOPT:network-caching=1000
-https://yuvraj.fun/sliv/index.m3u8?ch=SonyBBCEarthHD&id=2011907
-#EXTINF:40, Sony PIX HD
-#EXTVLCOPT:network-caching=1000
-https://yuvraj.fun/sliv/index.m3u8?ch=PIXHD&id=2011748
-#EXTINF:40, Sony MAX
-#EXTVLCOPT:network-caching=1000
-https://yuvraj.fun/sliv/index.m3u8?ch=SonyMaxSD&id=2011745
-#EXTINF:40, Sony MAX HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:38, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony Liv",SONY PAL
+https://la.drmlive.au/tp/sliv.php?id=pal
+#EXTINF:40, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Sony Liv",SONY PIX HD
+https://la.drmlive.au/tp/sliv.php?id=pix
+#EXTINF:40, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="Sony Liv",SONY MAX
+https://la.drmlive.au/tp/sliv.php?id=max
+#EXTINF:40, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Sony Liv",SONY MAX HD
+https://la.drmlive.au/tp/sliv.php?id=maxhd
 https://yuvraj.fun/sliv/index.m3u8?ch=SonyMaxhd&id=2011670
 #EXTINF:0, Sony MAX2
 #EXTVLCOPT:network-caching=1000
